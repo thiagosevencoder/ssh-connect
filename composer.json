@@ -1,0 +1,23 @@
+{
+  "name": "sevencoder/ssh-connect",
+  "description": "SSH Connection lib",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Thiago Cavalcante",
+      "email": "thiagocode2023@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0, <8.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SevenCoder\\SecureShell\\SSH\\": "src"
+    }
+  }
+}
