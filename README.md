@@ -1,4 +1,4 @@
-#CONNECT SSH WITH PHP
+##CONNECT SSH WITH PHP
 
 Simple manager of connections SSH with PHP using lib SSH2
 
@@ -9,7 +9,7 @@ To install this dependency, execute the comment below.
 composer require sevencoder/ssh-connect 
 ```
 
-##Utilization
+## Utilization
 
 To use the this lib, follow the example below
 
@@ -50,20 +50,6 @@ echo "STDIO:\n".$stdIo;
 
 ```
 
-##Requirements
+## Requirements
 - PHP 7.0
 - lib SSH2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
