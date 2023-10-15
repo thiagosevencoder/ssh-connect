@@ -1,4 +1,4 @@
-##CONNECT SSH WITH PHP
+## CONNECT SSH WITH PHP
 
 Simple manager of connections SSH with PHP using lib SSH2
 
